@@ -1,0 +1,19 @@
+.card-title{
+    text-align: center;
+    margin-bottom: 18px;
+}
+.input-group-text{
+    width: 100px;
+}
+.btn-align{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: -15px;
+}
+#btnRegister{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+#imgRegister{
+    width: 350px;
+}
